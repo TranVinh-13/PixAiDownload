@@ -6,6 +6,6 @@ Tool downlaod image for PixAI with high resolution image
 ```
 
 download('1635069401939403516')
-or download('idArtWorks')
+#download('idArtWorks')
 ```
 
