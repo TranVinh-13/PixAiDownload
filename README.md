@@ -1,6 +1,10 @@
 # PixAiDownload
 Tool downlaod image for PixAI with high resolution image
-#
-import test
 
-#
+#Example Code
+
+```
+download('1635069401939403516')
+
+```
+
